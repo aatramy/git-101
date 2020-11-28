@@ -2,6 +2,10 @@ body {
   margin: 0;
   font-family: Helvetica;
 }
+
+h1 {
+  font-weight:100;
+}
 #logo {
   height: 120px;
   width: 190px;
